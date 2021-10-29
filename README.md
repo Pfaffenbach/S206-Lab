@@ -1,10 +1,9 @@
-📜 Sobre o projeto
+📜 Sobre o projeto:
 
 
 Projeto criado para a disciplina de Qualidade de Software - S206 Instituto Nacional de Telecomunicações - INATEL
 
-📚 Teste de UI (User Interface)
-
+📚 Teste de UI (User Interface):
 
 
 Apliquei um teste de interface de usuário em uma calculadora que o próprio Google possui e assim testei as principais funções de calculos apontando os resultados que deram exito e os casos que deram erros, como por exemplo: divisão por zero.
